@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![GitHub stats](https://readme-stats-git-main-joao99c.vercel.app/api?username=joao99c&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://readme-stats-git-main-joao99c.vercel.app/api/top-langs/?username=joao99c&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://readme-stats-git-main-joao99c.vercel.app/api?username=joao99c&count_private=true)]
+[![Top Langs](https://readme-stats-git-main-joao99c.vercel.app/api/top-langs/?username=joao99c&langs_count=7)]
 
 <!--
 **joao99c/joao99c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
