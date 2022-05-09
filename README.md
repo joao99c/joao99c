@@ -1,6 +1,19 @@
-### Hi there 👋
+# Hi there, I'm João Carvalho 👋 
 
-[![:zap: GitHub Stats](https://readme-stats-git-main-joao99c.vercel.app/api?username=joao99c&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+## I'm a Web Developer From Portugal!!
+
+# Currently finishing my Degree in Computer Systems Engineering
+
+### Languages and Tools:
+- Ruby on Rails
+- Laravel
+- Angular
+- HTML
+- CSS
+- MySql
+- C/C# 
+
+[![:zap: My GitHub Stats](https://readme-stats-git-main-joao99c.vercel.app/api?username=joao99c&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
