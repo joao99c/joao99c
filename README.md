@@ -1,10 +1,9 @@
-# Hi there, I'm João Carvalho 👋 
-
+# Hi 👋 there, I'm João Carvalho
 ## I'm a Web Developer From Portugal!!
 
-# Currently finishing my Degree in Computer Systems Engineering
+### Currently finishing my Degree in Computer Systems Engineering
 
-### Languages and Tools:
+### Main Languages and Tools:
 - Ruby on Rails
 - Laravel
 - Angular
