@@ -1,5 +1,6 @@
 # Hi 👋 there, I'm João Carvalho
 I'm a Web Developer From Portugal!!
+
 Currently finishing my Degree in Computer Systems Engineering
 
 # Main Languages and Tools:
